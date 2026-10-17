@@ -4,7 +4,9 @@ READ ME BEFORE YOUR WORK
 # Tri-objective-itemset-mining
 
 There are 7 branches:
+
 |___ Kosarak
+
      |___ Kosarak.dat
      |___ Profit.dat
      |___ Volume.dat
